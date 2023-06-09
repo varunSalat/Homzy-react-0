@@ -1,0 +1,12 @@
+.client_main_container {
+    gap: 2em;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+
+.client_container {
+    width: 150px;
+}
