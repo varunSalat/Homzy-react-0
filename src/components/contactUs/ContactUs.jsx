@@ -7,7 +7,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import LanguageIcon from '@mui/icons-material/Language';
 const ContactUs = () => {
   return (
-    <section id="our_value_section">
+    <section id="contact_us_section">
     <div className="flex_section_inner_container flex">
         <div className="section_dis_container section_dis_container_white_bg">
         <SectionHeader mainHeader={'Our Contact Us'} secondaryHeader={'Easy to contact us'}/>
